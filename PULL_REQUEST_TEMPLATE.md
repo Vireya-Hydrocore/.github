@@ -4,10 +4,7 @@ Descreva de forma clara e objetiva as alterações feitas neste PR.
 ---
 
 ## 🧪 Como Testar
-Passos para reproduzir e validar as alterações:
-1. 
-2. 
-3. 
+Explique como fazemos para testar essa implementação
 
 ---
 
@@ -21,12 +18,13 @@ Passos para reproduzir e validar as alterações:
 
 ## ✅ Checklist
 - [ ] Código segue o padrão do projeto
-- [ ] Testes foram criados/atualizados
-- [ ] Documentação atualizada (se necessário)
 - [ ] Não quebrei funcionalidades existentes
 - [ ] PR revisado por mim antes de enviar
+- [ ] Versão do pom.xml atualizada
 
 ---
 
 ## 📚 Observações
 <!-- Adicione qualquer contexto adicional aqui -->
+
+
