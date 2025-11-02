@@ -31,17 +31,16 @@ O HydroCore surge, portanto, como uma **resposta inovadora a esses desafios**, u
 # 1 ano
 | Integrante | Função Principal | Contribuições |
 |-------------|------------------|----------------|
-| **Erik Santos** | Desenvolvedor Backend e Web| Responsável pelo tratamento dos dados recebidos usando Servlets e adaptação das telas para JSP, e criação da LadingPage. |
-| **Mayumi Kimura** | Designer de UX | Responsável por toda a experiência do usuário |
-| **Guilherme Guedes** | Desenvolvedor Backend | Responsável pelo JDBC, criação de Servlets e validação de dados da aplicação. |
+| **Erik Santos** | Desenvolvedor Backend e Web| Responsável pelo tratamento dos dados recebidos usando Servlets e adaptação das telas para JSP, e criação da LadingPage. |
+| **Mayumi Kimura** | Designer de UX | Responsável por toda a experiência do usuário |
+| **Guilherme Guedes** | Desenvolvedor Backend | Responsável pelo JDBC, criação de Servlets e validação de dados da aplicação. |
 | **Enzo Herrera** | Desenvolvedor Front-end  | Responsável pelo design e implementação do website |
 | **Caio Eiken** | Engenheiro de dados  | Responsável pelo PROMPT e pseudominização. |
-| **Iago Balbino** | Analista de dados  | Responsável pelo modelo conceitual, scripts e data loader. |
-| **Pedro Casarini** | Analista de dados  | Responsável pela criação do modelo lógico e dos fluxogramas do projeto. |
+| **Iago Balbino** | Analista de dados  | Responsável pelo modelo conceitual, scripts e data loader. |
+| **Pedro Casarini** | Analista de dados  | Responsável pela criação do modelo lógico e dos fluxogramas do projeto. |
 | **Gabriel Andozia** | Analista de sistemas   | Responsável pela parte operacional e organizacional do projeto. |
 
-
-
+---
 
 # 2 ano
 
@@ -51,13 +50,11 @@ O HydroCore surge, portanto, como uma **resposta inovadora a esses desafios**, u
 | **Leonardo Lins** | Desenvolvedor Backend| Responsável pela criação da API REST em Spring Boot, integração com o banco MongoDB, endpoints para medições, autenticação e segurança. |
 | **Vitor Ponciano** | Desenvolvedor Web| Responsável pela engenharia da solução e estruturação dos modelos. |
 | **Rodrigo Alex** | Desenvolvedor Mobile |Responsável pelo design da interface, integração com a API, e desenvolvimento do fluxo do app |
-| **Fernando Paiva** | Designer UI/UX | Criação da identidade visual, design das telas do app e estudo de usabilidade. |
-| **Pedro Frossard** | Tester e QA | Execução de testes funcionais, análise heurística, relatórios de bugs e validação de interface. |
-| **Guilherme Costa** | Cientista de dados | Responsável pelo Robô de coleta de dados e criação do modelo de machine learning para o cálculo de potabilidade da água. |
-| **Guilherme Trindade** | Analista de dados | Responsável por conduzir a análise exploratória dos dados e desenvolver painéis interativos no Power BI. Identificando padrões e tendências relevantes, transformando informações complexas em visualizações claras e acessíveis. |
+| **Fernando Paiva** | Cientista de dados | Responsável pela implementação da IA generativa no chatbot do sistema, atuando no desenvolvimento da lógica conversacional e integração com bancos de dados não relacionais (Redis e MongoDB), garantindo performance e fluidez nas interações em tempo real. |
+| **Pedro Frossard** | Analista de dados | Desenvolvedor de banco de dados do projeto, responsável pela modelagem relacional e implementação completa do banco em PostgreSQL, garantindo a consistência e eficiência do armazenamento das informações do sistema. |
+| **Guilherme Costa** | Cientista de dados | Responsável pelo Robô de coleta de dados e criação do modelo de machine learning para o cálculo de potabilidade da água. |
+| **Guilherme Trindade** | Analista de dados | Responsável por conduzir a análise exploratória dos dados e desenvolver painéis interativos no Power BI. Identificando padrões e tendências relevantes, transformando informações complexas em visualizações claras e acessíveis. |
 
-
----
 ---
 
 ## 📊 Funcionalidades Principais
@@ -66,10 +63,11 @@ O HydroCore surge, portanto, como uma **resposta inovadora a esses desafios**, u
 - Monitoramento de parâmetros de qualidade da água  
 - Cálculo automático de correção de pH  
 - Envio de notificações automáticas em caso de anomalias  
-- Geração e download de relatórios em PDF
-- Gerenciamento de estoque
-- Suporte de um chatbot
+- Geração e download de relatórios em PDF  
+- Gerenciamento de estoque  
+- Suporte de um chatbot  
 
+---
 
 ## 🧾 Licença
 Este projeto foi desenvolvido para fins **educacionais e de impacto social**, e é distribuído sob a licença **MIT**.
@@ -78,4 +76,4 @@ Este projeto foi desenvolvido para fins **educacionais e de impacto social**, e 
 
 ## 💬 Contato
 📧 **vireyabrasil@gmail.com**  
-🌐 Projeto criado com propósito, tecnologia e sustentabilidade.
+🌐 Projeto criado com propósito, tecnologia e sustentabilidade.  
